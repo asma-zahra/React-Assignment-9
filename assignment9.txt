@@ -1,0 +1,11 @@
+Q- Explore all the ways to writing css?
+A- 
+
+Q- How do we configure Tailwind?
+A- 
+
+Q- In tailwind.config.js. What does alll the key mean (content , theme, extend, plugins) ?
+A- 
+
+Q- Why do we have .postcssrc file?
+A-
